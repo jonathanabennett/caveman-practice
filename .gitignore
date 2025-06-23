@@ -1,0 +1,4 @@
+.clj-kondo/.cache/v1
+.cpcache
+.lsp/.cache
+.rebel_readline_history
